@@ -139,19 +139,73 @@
 
 ## 💪 Advanced Level
 
-### Week 14: Movie App
+
+### Week 14: Responsive UI & Animation & Git + GitHub
+
+📚 **Content:**
+-**Responsive UI:**
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLwWuxCLlF_ue_b0RZ_t6qjf_Nupkdq9BE)
+- [YouTube Playlist](https://www.youtube.com/watch?v=9bo1V9STW2c&list=LL&index=4)
+- 
+- -**Animations:**
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gP1qg8yj-Jokef29VRCLt1)
+- [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIswyhTYGTD3ADy5mJKSkpnh&si=EqP_sUcxxipn3eeD)
+- 
+- -**Git & GitHub**
+- [YouTube Playlist](https://www.youtube.com/watch?v=Q6G-J54vgKc&pp=ygUnZ2l0IGdpdGh1YiDYtNiu2KjYtyDZiNin2YbYqiDZhdiq2LfZhdmG)
+
+### Week 15:  State Management with Bloc + Clean Arch intro + Clean Code
 
 📚 **Content:**
 
-- [YouTube Playlist](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
+- [Udemy](https://www.udemy.com/course/flutter-bloc-pattern-from-zero-to-hero-in-arabic/?couponCode=24T4MT92724A)
+- **Until Section 3 ‘Bookly App’ ⇒  Search result view ui done
+- [Youtube](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufA0GYYjlx_R4smekKH_AuB)
+- [Youtube](https://www.youtube.com/watch?v=4kxlasYcCyo)
+- [First 3 videos from:](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
+- **Other resources:**
+- [Youtube](https://www.youtube.com/playlist?list=PLwJ4sQ79Ehm4TECBpsvzOWCL91Q9bj8Ce)
+- [Youtube](https://www.youtube.com/watch?v=RXxHm1fg7y8&t=2s)
 
-### Week 15: Ecommerce (Individual)
+
+  ### Practical Break: Google Translate Duplicate
+
+  📚 **Content:**
+  
+    -[Udemy](https://www.udemy.com/course/flutter-bloc-pattern-from-zero-to-hero-in-arabic/?couponCode=24T4MT92724A)
+  
+    -The rest of the course
+  
+  -**(Necessary): Splash Screen from:**
+  
+    -[Youtube](https://www.youtube.com/watch?v=3rXj0zsYXys&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=6&pp=iAQB)
+  
+    -[Youtube](https://www.youtube.com/watch?v=uJOuOHfAv5Y&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=7&pp=iAQB)
+  
+  -**(Necessary): Videos (Functions + previous three videos) from: **
+  
+    -[Youtube](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
+
+
+  
+
+### Practical Break: Movie app### Week 14: Movie App
+
+📚 **Content: Solid Principles**
+
+
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV )
+- **(first two videos ⇒ Introduction + Single Responsibility Principle)
+  
+
+### Practical Break: Ecommerce (individual)
 
 📚 **Content:**
+-**Videos (Objects & DS, Error-handling & Boundaries) from:**
+- [YouTube Playlist]([https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX))
 
-- [YouTube Playlist](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
 
-## 💪 Advanced Level
+
 
 ### Week 16: Firebase Authentication + Firestore
 
@@ -172,6 +226,8 @@
 📚 **Content:**
 
 - [YouTube Playlist](https://youtube.com/playlist?list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a)
+- [YouTube Playlist](https://www.youtube.com/watch?v=J4oFSx9yCX0&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=4&t=349s&pp=iAQB)
+- [YouTube Playlist](https://www.youtube.com/watch?v=pujvJbq6va0&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=5&pp=iAQB)
 
 ## ⭐ Important Topics
 
