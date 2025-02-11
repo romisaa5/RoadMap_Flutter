@@ -73,6 +73,8 @@
 - **Flutter Layout Widgets (from 18-Stateful widget to 29—AppBar):**  
   [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
 
+  ## 🔥 Intermediate Level
+
 ### Week 8: GitHub & UML Diagram
 
 📚 **Content:**
