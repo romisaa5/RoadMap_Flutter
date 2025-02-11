@@ -1,8 +1,8 @@
-# Flutter Roadmap 2025
+# Flutter Roadmap 2024
 
+![Flutter Logo](https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png)
 
-
-## **“لِلَّهِ رَبِّ الْعَالَمِينَ”**
+## **“نسعي ولله التيسير”**
 
 ---
 
@@ -73,8 +73,6 @@
 - **Flutter Layout Widgets (from 18-Stateful widget to 29—AppBar):**  
   [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
 
-  ## 🔥 Intermediate Level
-
 ### Week 8: GitHub & UML Diagram
 
 📚 **Content:**
@@ -83,6 +81,8 @@
   [YouTube Playlist](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF)
 - **UML Diagram:**  
   [YouTube Video](https://youtu.be/H_QtJWwvdGA?list=PLGCLD9LCH9Yi8leWyDNzK7h0N8RLTey1u)
+
+## 🚀 Intermediate Level
 
 ### Week 9: Drawer, BottomNavBar & Navigation
 
@@ -98,40 +98,35 @@
 - **From 42 to 46 - Ecommerce Videos:**  
   [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
 
-### Practical Break (2)
+### Week 10-13: SQLite, Async Dart & State Management
 
 📚 **Content:**
 
-- **From 47-List.generate to 52-scroll:**  
-  [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
-
-### Week 10: SQLite part(1)
-
-📚 **Content:**
-
-- [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
-- **Some resources for Future Builder:**
-  - [YouTube Video](https://www.youtube.com/watch?v=ek8ZPdWj4Qo)
-  - [GeeksForGeeks Article](https://www.geeksforgeeks.org/flutter-futurebuilder-widget/)
-
-### Week 11: SQLite part(2)
-
-📚 **Content:**
-
-- [YouTube Video 1](https://www.youtube.com/watch?v=UEYatn7WPqI)
-- [YouTube Video 2](https://www.youtube.com/watch?v=0NB-mqLZ2No)
-- [YouTube Video 3](https://www.youtube.com/watch?v=PP-oS4cZaRI)
-- [YouTube Video 4](https://www.youtube.com/watch?v=2dTtf7QdzcQ)
-
-### Week 13: State Management With Provider
-
-📚 **Content:**
-
-- **State Management: (91 : 97)**  
-  [YouTube Playlist](https://youtube.com/playlist?list=PL3aG1K3LWCrfRhN2p7gargu-ugZuCO44a)
+- [Week 10-13 Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
 
 ## 💪 Advanced Level
-_Coming soon..._
+
+### Week 16: Firebase Authentication + Firestore
+
+📚 **Content:**
+
+- Intro about Firebase: [YouTube Video](https://youtu.be/pUmShDQCljI)
+- Intro about Databases: [YouTube Video](https://youtu.be/GBeWKa1Lc6I)
+- Firebase: [YouTube Playlist](https://www.youtube.com/playlist?list=PL93xoMrxRJIvHhxhB21YzzeimEEzzAz6g) (From 1 to 20)
+
+### Week 17: Firebase Firestore + Storage
+
+📚 **Content:**
+
+- Firebase: [YouTube Playlist](https://www.youtube.com/playlist?list=PL93xoMrxRJIvHhxhB21YzzeimEEzzAz6g) (From 21 to 35)
+
+### Practical Break: 2-User News App (Reporter & Reader)
+
+📚 **Content:**
+
+- [YouTube Video](https://youtu.be/InKlD0VQOE0?list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a)
+- [YouTube Video](https://www.youtube.com/watch?v=J4oFSx9yCX0&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=4&t=349s&pp=iAQB)
+- [YouTube Video](https://www.youtube.com/watch?v=pujvJbq6va0&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=5&pp=iAQB)
 
 ## ⭐ Important Topics
 _Coming soon..._
