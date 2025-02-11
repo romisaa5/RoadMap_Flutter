@@ -1,6 +1,5 @@
-# Flutter Roadmap 2024
+# Flutter Roadmap 2025
 
-![Flutter Logo](https://flutter.dev/assets/images/shared/brand/flutter/logo/flutter-lockup.png)
 
 ## **“نسعي ولله التيسير”**
 
@@ -72,6 +71,8 @@
 
 - **Flutter Layout Widgets (from 18-Stateful widget to 29—AppBar):**  
   [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
+  
+## 🚀 Intermediate Level
 
 ### Week 8: GitHub & UML Diagram
 
@@ -82,7 +83,7 @@
 - **UML Diagram:**  
   [YouTube Video](https://youtu.be/H_QtJWwvdGA?list=PLGCLD9LCH9Yi8leWyDNzK7h0N8RLTey1u)
 
-## 🚀 Intermediate Level
+
 
 ### Week 9: Drawer, BottomNavBar & Navigation
 
@@ -98,29 +99,45 @@
 - **From 42 to 46 - Ecommerce Videos:**  
   [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
 
-### Week 10: SQLite
+### Practical Break(2):
+  📚 **Content:**
+  - **From 47-List.generate to 52-scroll:**
+  -   [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
+
+### Week 10: SQLite part(1)
 
 📚 **Content:**
 
 - [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
-
-### Week 11: Async Dart
-
-📚 **Content:**
-
-- [YouTube Video](https://youtu.be/JJvGZYtUvoY)
-
-### Week 12: State Management (Part 1)
+-   - **Some resources for Future Builder:**
+    - [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
+    - 
+### Week 11: SQLite part(2)
 
 📚 **Content:**
 
 - [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
+-  [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
+-  [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
+-  [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
 
-### Week 13: State Management (Part 2)
+### Week 12: Async Dart & API
+
+📚 **Content:**
+-** Networking (working with API): videos from 73 to 78 (http)**
+- [YouTube Video](https://youtube.com/playlist?list=PL3aG1K3LWCre6DIC2amKlXjn_kd2P6zE9)
+- **Async Dart: this playlist is very good for revising some main concepts like Async, Futures, Null Safety, etc.**
+- [YouTube Video](https://youtube.com/playlist?list=PLjxrf2q8roU0Net_g1NT5_vOO3s_FR02J)
+
+### Week 13: State Management With Provider
 
 📚 **Content:**
 
-- [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
+- **State Management: (91 : 97)**
+- [YouTube Playlist](https://youtube.com/playlist?list=PL3aG1K3LWCrfRhN2p7gargu-ugZuCO44a)
+
+
+## 💪 Advanced Level
 
 ### Week 14: Movie App
 
