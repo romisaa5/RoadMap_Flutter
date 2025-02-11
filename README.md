@@ -98,11 +98,41 @@
 - **From 42 to 46 - Ecommerce Videos:**  
   [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvtIXjAiX15wcyNv-LOWZa9&si=K7BVaWtPXJeppB1X)
 
-### Week 10-13: SQLite, Async Dart & State Management
+### Week 10: SQLite
 
 📚 **Content:**
 
-- [Week 10-13 Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
+- [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
+
+### Week 11: Async Dart
+
+📚 **Content:**
+
+- [YouTube Video](https://youtu.be/JJvGZYtUvoY)
+
+### Week 12: State Management (Part 1)
+
+📚 **Content:**
+
+- [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
+
+### Week 13: State Management (Part 2)
+
+📚 **Content:**
+
+- [YouTube Playlist](https://youtube.com/playlist?list=PL93xoMrxRJIvPg3nW8WG0HDDgpMQtUkag&si=dI5tvHmhfLyuC41i)
+
+### Week 14: Movie App
+
+📚 **Content:**
+
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
+
+### Week 15: Ecommerce (Individual)
+
+📚 **Content:**
+
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
 
 ## 💪 Advanced Level
 
@@ -124,12 +154,33 @@
 
 📚 **Content:**
 
-- [YouTube Video](https://youtu.be/InKlD0VQOE0?list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a)
-- [YouTube Video](https://www.youtube.com/watch?v=J4oFSx9yCX0&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=4&t=349s&pp=iAQB)
-- [YouTube Video](https://www.youtube.com/watch?v=pujvJbq6va0&list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a&index=5&pp=iAQB)
+- [YouTube Playlist](https://youtube.com/playlist?list=PLwWuxCLlF_ucnfkI-_yNRCOTI-yJa5N-a)
 
 ## ⭐ Important Topics
-_Coming soon..._
+
+### Clean Code
+
+📚 **Content:**
+
+- [YouTube Playlist](https://youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
+
+### Solid Principles
+
+📚 **Content:**
+
+- [YouTube Playlist](https://youtube.com/playlist?list=PLwWuxCLlF_uevri_OpofVLXkRRFnZ7TSV)
+
+### Architecture MVVM
+
+📚 **Content:**
+
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PL3aG1K3LWCrfvjEBkx3ujAtg7yK0zzTiY)
+
+### Design Pattern
+
+📚 **Content:**
+
+- [YouTube Playlist](https://www.youtube.com/playlist?list=PLsV97AQt78NTrqUAZM562JbR3ljX19JFR)
 
 ---
 
