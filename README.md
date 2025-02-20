@@ -5,6 +5,10 @@
 
 ---
 
+<p align="center">
+  <img src="http://pixelwibes.com/public/front/images/service/flutter-logo.png" alt="Roadmap" width="50%" height="450px">
+</p>
+
 ## 📌 Levels
 
 | Level | Topics |
