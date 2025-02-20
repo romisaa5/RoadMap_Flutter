@@ -239,8 +239,9 @@
 ### Practical Break: Ecommerce (individual)
 
 📚 **Content:**
--**Videos (Objects & DS, Error-handling & Boundaries) from:**
-- [YouTube Playlist]([https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX))
+**Videos (Objects & DS, Error-handling & Boundaries) from:**
+
+-[YouTube Playlist](https://www.youtube.com/playlist?list=PLwWuxCLlF_ufTMlXoJlQvImqz9wIfcWsX)
 
 
 ---
